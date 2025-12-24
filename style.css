@@ -83,3 +83,7 @@
 }
 /*PAGE 2*/
 
+.todoApp{
+    position: absolute;
+    left:200px;
+}
