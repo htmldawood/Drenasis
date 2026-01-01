@@ -88,9 +88,10 @@
     top: 380px;
     position: absolute;
     float:left;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color:rgb(44, 43, 43);
     padding:10px 20px;
+    height: 230px;
 }
 
 .phonesBtn{
@@ -125,4 +126,11 @@
     position: absolute;
     left:200px;
     top:120px;
+}
+
+.calculatorApp{
+    position: absolute;
+    left: 350px;
+    top: 120px;
+
 }
