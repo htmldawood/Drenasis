@@ -118,6 +118,19 @@
     background-color: rgb(0, 78, 160);
 }
 
+.phoneBox{
+    width:190px;
+    height:280px;
+    background-color:antiquewhite;
+    position: absolute;
+    left:220px;
+    background-image: url(real\ deal.png);
+    top:30px;
+    border-radius: 25px;
+    background-color: rgb(0, 78, 160);
+
+}
+
 
 
 /*PAGE 2*/
